@@ -1,0 +1,5 @@
+Compile ts to js
+>>tsc helloworld.ts
+
+run js 
+>>node helloworld.js
