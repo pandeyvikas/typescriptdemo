@@ -1,0 +1,22 @@
+check node version
+>> node -v
+
+Update Path in system if module not found error is coming
+
+
+Check NPM 
+>> NPM  -v
+
+
+install typescript
+>> npm install -g typescript
+
+Compile 
+>> tsc filename.ts 
+
+//File C:\Users\Ecouns\AppData\Roaming\npm\tsc.ps1 cannot be loaded because running scripts is disabled on this system. For more information, see about_Execution_Policies at
+//run this command through powercell
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
+
+run js file 
+>>ode filename.js
