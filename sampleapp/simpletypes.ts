@@ -6,3 +6,7 @@ let x:any=true;
 x = 5;
 x = "5s";
 console.log(x);
+
+const y=6;
+//y="hi";
+console.log(y);

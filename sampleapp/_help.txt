@@ -1,0 +1,2 @@
+//compile through tsconfig file
+tsc -p .
