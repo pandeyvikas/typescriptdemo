@@ -21,7 +21,7 @@ smplArray_3.push("string");
 //smplArray_2.push(true);
  console.log(smplArray_3)
 //********************************************/
-let smplArray_4 = ['hi', 'hello', 'namaskar'];
+var smplArray_4 = ['hi', 'hello', 'namaskar'];
 //smplArray_4.push(1);  
 //smplArray_4.push("string");  
 //smplArray_4.push(true);  

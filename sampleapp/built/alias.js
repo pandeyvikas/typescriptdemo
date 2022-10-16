@@ -1,8 +1,8 @@
 "use strict";
-let carYear = 2022;
-let carModel = "Maruti";
-let carType = "Baleno";
-const myCar = {
+var carYear = 2022;
+var carModel = "Maruti";
+var carType = "Baleno";
+var myCar = {
     year: carYear,
     model: carModel,
     type: 'Maruti'

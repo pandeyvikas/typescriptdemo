@@ -12,7 +12,8 @@ function add(a, b, c) {
 }
 console.log(add(2, 3));
 console.log(add(2, 3, 4));
-function multiply(a, b = 2) {
+function multiply(a, b) {
+    if (b === void 0) { b = 2; }
     return a * b;
 }
 console.log(multiply(2, 4));

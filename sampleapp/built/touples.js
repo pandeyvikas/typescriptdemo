@@ -16,6 +16,6 @@ ourTuple2.push('Something new and wrong 2');//okay
 console.log(ourTuple2);
 //******************************/
 /*********************** */
-const geolocation = [12, 13];
+var geolocation = [12, 13];
 console.log(geolocation[0]);
 //******************************* */

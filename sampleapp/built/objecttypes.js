@@ -1,5 +1,5 @@
 "use strict";
-let car = {
+var car = {
     type: 'Toyota',
     model: 'Corrola',
     year: 2022

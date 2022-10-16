@@ -1,10 +1,10 @@
 "use strict";
-const rectangle = {
+var rectangle = {
     height: 20,
     width: 10
 };
 console.log(rectangle);
-const coloredRectangle = {
+var coloredRectangle = {
     height: 20,
     width: 10,
     color: "red"

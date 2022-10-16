@@ -1,5 +1,5 @@
 "use strict";
-const nameAgeMap = {};
+var nameAgeMap = {};
 nameAgeMap.x = 10;
 nameAgeMap.y = 12;
 nameAgeMap.z = 25;
